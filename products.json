@@ -1,0 +1,1402 @@
+[
+    {
+        "name": "Shirt",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 884,
+        "weight": 1823,
+        "discount": 0.71
+    },
+    {
+        "name": "Keyboard",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 583,
+        "weight": 449,
+        "discount": 0.62
+    },
+    {
+        "name": "Car",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 331,
+        "weight": 238,
+        "discount": 0.41
+    },
+    {
+        "name": "Sausages",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 643,
+        "weight": 1060,
+        "discount": 0.47
+    },
+    {
+        "name": "Pizza",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 375,
+        "weight": 1355,
+        "discount": 0.04
+    },
+    {
+        "name": "Car",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 266,
+        "weight": 743,
+        "discount": 0.6
+    },
+    {
+        "name": "Computer",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 389,
+        "weight": 1203,
+        "discount": 0.62
+    },
+    {
+        "name": "Cheese",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 386,
+        "weight": 1524,
+        "discount": 0.52
+    },
+    {
+        "name": "Bike",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 921,
+        "weight": 1380,
+        "discount": 0.71
+    },
+    {
+        "name": "Salad",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 267,
+        "weight": 1758,
+        "discount": 0.32
+    },
+    {
+        "name": "Salad",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 548,
+        "weight": 1827,
+        "discount": 0.6
+    },
+    {
+        "name": "Ball",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 137,
+        "weight": 1028,
+        "discount": 0.39
+    },
+    {
+        "name": "Shirt",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 470,
+        "weight": 1706,
+        "discount": 0.79
+    },
+    {
+        "name": "Chair",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 254,
+        "weight": 470,
+        "discount": 0.81
+    },
+    {
+        "name": "Keyboard",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 432,
+        "weight": 642,
+        "discount": 0.44
+    },
+    {
+        "name": "Fish",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 39,
+        "weight": 1105,
+        "discount": 0.34
+    },
+    {
+        "name": "Computer",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 436,
+        "weight": 152,
+        "discount": 0.97
+    },
+    {
+        "name": "Car",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 324,
+        "weight": 308,
+        "discount": 0.34
+    },
+    {
+        "name": "Bike",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 34,
+        "weight": 782,
+        "discount": 0.71
+    },
+    {
+        "name": "Shoes",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 936,
+        "weight": 201,
+        "discount": 0.11
+    },
+    {
+        "name": "Bacon",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 559,
+        "weight": 1296,
+        "discount": 0.28
+    },
+    {
+        "name": "Mouse",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 796,
+        "weight": 1409,
+        "discount": 0.98
+    },
+    {
+        "name": "Sausages",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 410,
+        "weight": 1993,
+        "discount": 0.45
+    },
+    {
+        "name": "Bacon",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 572,
+        "weight": 1014,
+        "discount": 0.5
+    },
+    {
+        "name": "Bacon",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 878,
+        "weight": 747,
+        "discount": 0.12
+    },
+    {
+        "name": "Towels",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 786,
+        "weight": 920,
+        "discount": 0.82
+    },
+    {
+        "name": "Bacon",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 257,
+        "weight": 1347,
+        "discount": 0.04
+    },
+    {
+        "name": "Shirt",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 208,
+        "weight": 569,
+        "discount": 0.78
+    },
+    {
+        "name": "Towels",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 307,
+        "weight": 1974,
+        "discount": 0.39
+    },
+    {
+        "name": "Bike",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 726,
+        "weight": 340,
+        "discount": 0.84
+    },
+    {
+        "name": "Chicken",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 762,
+        "weight": 757,
+        "discount": 0.76
+    },
+    {
+        "name": "Car",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 901,
+        "weight": 515,
+        "discount": 0.31
+    },
+    {
+        "name": "Tuna",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 96,
+        "weight": 559,
+        "discount": 0.09
+    },
+    {
+        "name": "Shoes",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 622,
+        "weight": 123,
+        "discount": 0.36
+    },
+    {
+        "name": "Shoes",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 779,
+        "weight": 852,
+        "discount": 0.16
+    },
+    {
+        "name": "Soap",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 879,
+        "weight": 1935,
+        "discount": 0.07
+    },
+    {
+        "name": "Soap",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 439,
+        "weight": 860,
+        "discount": 0.21
+    },
+    {
+        "name": "Chicken",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 462,
+        "weight": 861,
+        "discount": 0.95
+    },
+    {
+        "name": "Chips",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 534,
+        "weight": 349,
+        "discount": 0.22
+    },
+    {
+        "name": "Chips",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 873,
+        "weight": 250,
+        "discount": 0.91
+    },
+    {
+        "name": "Mouse",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 920,
+        "weight": 1523,
+        "discount": 0.82
+    },
+    {
+        "name": "Table",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 786,
+        "weight": 91,
+        "discount": 0.66
+    },
+    {
+        "name": "Towels",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 532,
+        "weight": 983,
+        "discount": 0.95
+    },
+    {
+        "name": "Car",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 72,
+        "weight": 382,
+        "discount": 0.82
+    },
+    {
+        "name": "Hat",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 767,
+        "weight": 1465,
+        "discount": 0.02
+    },
+    {
+        "name": "Fish",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 746,
+        "weight": 1582,
+        "discount": 0.63
+    },
+    {
+        "name": "Pants",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 343,
+        "weight": 1982,
+        "discount": 0.64
+    },
+    {
+        "name": "Bacon",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 131,
+        "weight": 1855,
+        "discount": 0.31
+    },
+    {
+        "name": "Computer",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 745,
+        "weight": 1391,
+        "discount": 0.95
+    },
+    {
+        "name": "Shoes",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 426,
+        "weight": 471,
+        "discount": 0.77
+    },
+    {
+        "name": "Soap",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 904,
+        "weight": 1751,
+        "discount": 0.89
+    },
+    {
+        "name": "Car",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 105,
+        "weight": 1046,
+        "discount": 0.56
+    },
+    {
+        "name": "Ball",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 278,
+        "weight": 1965,
+        "discount": 0.72
+    },
+    {
+        "name": "Tuna",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 318,
+        "weight": 566,
+        "discount": 0.48
+    },
+    {
+        "name": "Bacon",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 644,
+        "weight": 542,
+        "discount": 0.83
+    },
+    {
+        "name": "Sausages",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 380,
+        "weight": 1491,
+        "discount": 0.32
+    },
+    {
+        "name": "Shoes",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 99,
+        "weight": 1025,
+        "discount": 0.91
+    },
+    {
+        "name": "Chicken",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 104,
+        "weight": 1245,
+        "discount": 0.02
+    },
+    {
+        "name": "Shoes",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 628,
+        "weight": 1131,
+        "discount": 0.6
+    },
+    {
+        "name": "Towels",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 311,
+        "weight": 629,
+        "discount": 0.7
+    },
+    {
+        "name": "Gloves",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 655,
+        "weight": 1182,
+        "discount": 0.38
+    },
+    {
+        "name": "Cheese",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 985,
+        "weight": 1047,
+        "discount": 0.94
+    },
+    {
+        "name": "Chips",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 811,
+        "weight": 779,
+        "discount": 0.96
+    },
+    {
+        "name": "Chair",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 124,
+        "weight": 1655,
+        "discount": 0.22
+    },
+    {
+        "name": "Keyboard",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 501,
+        "weight": 1027,
+        "discount": 0.3
+    },
+    {
+        "name": "Keyboard",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 670,
+        "weight": 1074,
+        "discount": 0.99
+    },
+    {
+        "name": "Ball",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 133,
+        "weight": 1418,
+        "discount": 0.39
+    },
+    {
+        "name": "Hat",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 750,
+        "weight": 761,
+        "discount": 0.07
+    },
+    {
+        "name": "Pizza",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 30,
+        "weight": 749,
+        "discount": 0.97
+    },
+    {
+        "name": "Shirt",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 587,
+        "weight": 119,
+        "discount": 0.02
+    },
+    {
+        "name": "Salad",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 850,
+        "weight": 1351,
+        "discount": 0.51
+    },
+    {
+        "name": "Bacon",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 663,
+        "weight": 509,
+        "discount": 0.58
+    },
+    {
+        "name": "Bacon",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 204,
+        "weight": 1887,
+        "discount": 0.55
+    },
+    {
+        "name": "Hat",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 734,
+        "weight": 738,
+        "discount": 0.7
+    },
+    {
+        "name": "Mouse",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 988,
+        "weight": 344,
+        "discount": 0.73
+    },
+    {
+        "name": "Keyboard",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 364,
+        "weight": 1418,
+        "discount": 0.97
+    },
+    {
+        "name": "Salad",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 391,
+        "weight": 1594,
+        "discount": 0.15
+    },
+    {
+        "name": "Bike",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 43,
+        "weight": 1832,
+        "discount": 0.93
+    },
+    {
+        "name": "Salad",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 272,
+        "weight": 95,
+        "discount": 0.3
+    },
+    {
+        "name": "Table",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 481,
+        "weight": 1266,
+        "discount": 0.36
+    },
+    {
+        "name": "Gloves",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 834,
+        "weight": 849,
+        "discount": 0.91
+    },
+    {
+        "name": "Shirt",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 278,
+        "weight": 960,
+        "discount": 0
+    },
+    {
+        "name": "Pizza",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 429,
+        "weight": 175,
+        "discount": 0.21
+    },
+    {
+        "name": "Shirt",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 402,
+        "weight": 1438,
+        "discount": 0.77
+    },
+    {
+        "name": "Gloves",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 921,
+        "weight": 777,
+        "discount": 0.74
+    },
+    {
+        "name": "Fish",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 955,
+        "weight": 462,
+        "discount": 0.47
+    },
+    {
+        "name": "Mouse",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 362,
+        "weight": 722,
+        "discount": 0.83
+    },
+    {
+        "name": "Hat",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 39,
+        "weight": 1562,
+        "discount": 0.35
+    },
+    {
+        "name": "Fish",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 561,
+        "weight": 288,
+        "discount": 0.33
+    },
+    {
+        "name": "Shirt",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 32,
+        "weight": 1240,
+        "discount": 0.96
+    },
+    {
+        "name": "Computer",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 107,
+        "weight": 1007,
+        "discount": 0.78
+    },
+    {
+        "name": "Soap",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 303,
+        "weight": 1982,
+        "discount": 0.94
+    },
+    {
+        "name": "Towels",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 486,
+        "weight": 305,
+        "discount": 0.61
+    },
+    {
+        "name": "Towels",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 678,
+        "weight": 749,
+        "discount": 0.15
+    },
+    {
+        "name": "Pizza",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 951,
+        "weight": 433,
+        "discount": 0.88
+    },
+    {
+        "name": "Tuna",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 715,
+        "weight": 1720,
+        "discount": 0.13
+    },
+    {
+        "name": "Mouse",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 664,
+        "weight": 1182,
+        "discount": 0
+    },
+    {
+        "name": "Tuna",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 805,
+        "weight": 1859,
+        "discount": 0.71
+    },
+    {
+        "name": "Shoes",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 207,
+        "weight": 1147,
+        "discount": 0.61
+    },
+    {
+        "name": "Sausages",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 451,
+        "weight": 406,
+        "discount": 0.37
+    },
+    {
+        "name": "Ball",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 31,
+        "weight": 1690,
+        "discount": 0.94
+    },
+    {
+        "name": "Chicken",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 847,
+        "weight": 1339,
+        "discount": 0.62
+    },
+    {
+        "name": "Car",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 76,
+        "weight": 762,
+        "discount": 0.09
+    },
+    {
+        "name": "Chips",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 259,
+        "weight": 1649,
+        "discount": 0.95
+    },
+    {
+        "name": "Pants",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 103,
+        "weight": 182,
+        "discount": 0.53
+    },
+    {
+        "name": "Soap",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 806,
+        "weight": 1127,
+        "discount": 0.12
+    },
+    {
+        "name": "Pants",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 220,
+        "weight": 1185,
+        "discount": 0.83
+    },
+    {
+        "name": "Sausages",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 681,
+        "weight": 988,
+        "discount": 0.61
+    },
+    {
+        "name": "Towels",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 223,
+        "weight": 1244,
+        "discount": 0.24
+    },
+    {
+        "name": "Ball",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 793,
+        "weight": 284,
+        "discount": 0.19
+    },
+    {
+        "name": "Soap",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 515,
+        "weight": 727,
+        "discount": 0.23
+    },
+    {
+        "name": "Chicken",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 30,
+        "weight": 1042,
+        "discount": 0.32
+    },
+    {
+        "name": "Chips",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 477,
+        "weight": 1072,
+        "discount": 0.15
+    },
+    {
+        "name": "Shoes",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 475,
+        "weight": 1693,
+        "discount": 0.32
+    },
+    {
+        "name": "Sausages",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 184,
+        "weight": 1737,
+        "discount": 0
+    },
+    {
+        "name": "Cheese",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 495,
+        "weight": 1111,
+        "discount": 0.89
+    },
+    {
+        "name": "Tuna",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 776,
+        "weight": 935,
+        "discount": 0.38
+    },
+    {
+        "name": "Chair",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 209,
+        "weight": 841,
+        "discount": 0.31
+    },
+    {
+        "name": "Table",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 396,
+        "weight": 1986,
+        "discount": 0.58
+    },
+    {
+        "name": "Towels",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 64,
+        "weight": 1857,
+        "discount": 0.93
+    },
+    {
+        "name": "Bacon",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 798,
+        "weight": 457,
+        "discount": 0.61
+    },
+    {
+        "name": "Bacon",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 40,
+        "weight": 228,
+        "discount": 0.45
+    },
+    {
+        "name": "Bike",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 116,
+        "weight": 750,
+        "discount": 0.73
+    },
+    {
+        "name": "Car",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 306,
+        "weight": 1294,
+        "discount": 0.43
+    },
+    {
+        "name": "Soap",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 22,
+        "weight": 1662,
+        "discount": 0.19
+    },
+    {
+        "name": "Chips",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 157,
+        "weight": 1837,
+        "discount": 0.13
+    },
+    {
+        "name": "Salad",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 752,
+        "weight": 435,
+        "discount": 0.01
+    },
+    {
+        "name": "Table",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 918,
+        "weight": 1081,
+        "discount": 0.76
+    },
+    {
+        "name": "Cheese",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 697,
+        "weight": 1007,
+        "discount": 0.61
+    },
+    {
+        "name": "Tuna",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 302,
+        "weight": 1593,
+        "discount": 0.76
+    },
+    {
+        "name": "Chips",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 632,
+        "weight": 740,
+        "discount": 0.71
+    },
+    {
+        "name": "Towels",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 707,
+        "weight": 1747,
+        "discount": 0.16
+    },
+    {
+        "name": "Fish",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 473,
+        "weight": 712,
+        "discount": 0.54
+    },
+    {
+        "name": "Soap",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 31,
+        "weight": 1758,
+        "discount": 0.32
+    },
+    {
+        "name": "Gloves",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 970,
+        "weight": 1324,
+        "discount": 0.51
+    },
+    {
+        "name": "Shoes",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 62,
+        "weight": 1511,
+        "discount": 0.99
+    },
+    {
+        "name": "Gloves",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 979,
+        "weight": 1073,
+        "discount": 0.96
+    },
+    {
+        "name": "Hat",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 26,
+        "weight": 1149,
+        "discount": 0.39
+    },
+    {
+        "name": "Pants",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 633,
+        "weight": 563,
+        "discount": 0.12
+    },
+    {
+        "name": "Keyboard",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 99,
+        "weight": 1986,
+        "discount": 0.73
+    },
+    {
+        "name": "Mouse",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 926,
+        "weight": 1538,
+        "discount": 0.37
+    },
+    {
+        "name": "Salad",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 112,
+        "weight": 1559,
+        "discount": 0.94
+    },
+    {
+        "name": "Pants",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 447,
+        "weight": 1129,
+        "discount": 0.12
+    },
+    {
+        "name": "Computer",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 25,
+        "weight": 1480,
+        "discount": 0.32
+    },
+    {
+        "name": "Gloves",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 793,
+        "weight": 1893,
+        "discount": 0.27
+    },
+    {
+        "name": "Tuna",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 806,
+        "weight": 1851,
+        "discount": 0.96
+    },
+    {
+        "name": "Shirt",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 311,
+        "weight": 1008,
+        "discount": 0.52
+    },
+    {
+        "name": "Keyboard",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 892,
+        "weight": 234,
+        "discount": 0.94
+    },
+    {
+        "name": "Soap",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 166,
+        "weight": 1293,
+        "discount": 0.62
+    },
+    {
+        "name": "Pants",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 8,
+        "weight": 240,
+        "discount": 0.59
+    },
+    {
+        "name": "Soap",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 253,
+        "weight": 604,
+        "discount": 0.33
+    },
+    {
+        "name": "Pants",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 934,
+        "weight": 819,
+        "discount": 0.57
+    },
+    {
+        "name": "Bacon",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 904,
+        "weight": 1051,
+        "discount": 0.49
+    },
+    {
+        "name": "Pants",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 654,
+        "weight": 1012,
+        "discount": 0.78
+    },
+    {
+        "name": "Car",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 15,
+        "weight": 1836,
+        "discount": 0.15
+    },
+    {
+        "name": "Bike",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 361,
+        "weight": 167,
+        "discount": 0.34
+    },
+    {
+        "name": "Fish",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 344,
+        "weight": 1433,
+        "discount": 0.72
+    },
+    {
+        "name": "Chicken",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 191,
+        "weight": 1858,
+        "discount": 0.68
+    },
+    {
+        "name": "Computer",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 472,
+        "weight": 1168,
+        "discount": 0.21
+    },
+    {
+        "name": "Chips",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 488,
+        "weight": 722,
+        "discount": 0.48
+    },
+    {
+        "name": "Soap",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 488,
+        "weight": 1532,
+        "discount": 0.04
+    },
+    {
+        "name": "Cheese",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 928,
+        "weight": 1051,
+        "discount": 0.11
+    },
+    {
+        "name": "Pizza",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 378,
+        "weight": 1695,
+        "discount": 0.08
+    },
+    {
+        "name": "Shoes",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 211,
+        "weight": 1294,
+        "discount": 0.78
+    },
+    {
+        "name": "Bacon",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 417,
+        "weight": 601,
+        "discount": 0.63
+    },
+    {
+        "name": "Towels",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 329,
+        "weight": 1004,
+        "discount": 0.45
+    },
+    {
+        "name": "Pants",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 178,
+        "weight": 576,
+        "discount": 0.93
+    },
+    {
+        "name": "Sausages",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 246,
+        "weight": 1932,
+        "discount": 0.48
+    },
+    {
+        "name": "Hat",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 166,
+        "weight": 1585,
+        "discount": 0
+    },
+    {
+        "name": "Keyboard",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 363,
+        "weight": 273,
+        "discount": 0.87
+    },
+    {
+        "name": "Towels",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 748,
+        "weight": 359,
+        "discount": 0.82
+    },
+    {
+        "name": "Sausages",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "netPrice": 525,
+        "weight": 595,
+        "discount": 0.59
+    },
+    {
+        "name": "Bike",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 49,
+        "weight": 213,
+        "discount": 0.63
+    },
+    {
+        "name": "Pizza",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 894,
+        "weight": 397,
+        "discount": 0.77
+    },
+    {
+        "name": "Chips",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 852,
+        "weight": 802,
+        "discount": 0.6
+    },
+    {
+        "name": "Computer",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 569,
+        "weight": 502,
+        "discount": 0.6
+    },
+    {
+        "name": "Cheese",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 460,
+        "weight": 210,
+        "discount": 0.92
+    },
+    {
+        "name": "Chair",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 432,
+        "weight": 1600,
+        "discount": 0.83
+    },
+    {
+        "name": "Hat",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "netPrice": 369,
+        "weight": 1405,
+        "discount": 0.62
+    },
+    {
+        "name": "Towels",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "netPrice": 843,
+        "weight": 1665,
+        "discount": 0.39
+    },
+    {
+        "name": "Mouse",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 388,
+        "weight": 999,
+        "discount": 0.1
+    },
+    {
+        "name": "Fish",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 712,
+        "weight": 875,
+        "discount": 0.19
+    },
+    {
+        "name": "Soap",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 275,
+        "weight": 1739,
+        "discount": 0.93
+    },
+    {
+        "name": "Table",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 31,
+        "weight": 494,
+        "discount": 0.84
+    },
+    {
+        "name": "Ball",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 975,
+        "weight": 1777,
+        "discount": 0.06
+    },
+    {
+        "name": "Chair",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 891,
+        "weight": 599,
+        "discount": 0.12
+    },
+    {
+        "name": "Pizza",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 302,
+        "weight": 628,
+        "discount": 0.49
+    },
+    {
+        "name": "Table",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 271,
+        "weight": 1215,
+        "discount": 0.68
+    },
+    {
+        "name": "Bike",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "netPrice": 233,
+        "weight": 1875,
+        "discount": 0.56
+    },
+    {
+        "name": "Cheese",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 234,
+        "weight": 700,
+        "discount": 0.92
+    },
+    {
+        "name": "Fish",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "netPrice": 858,
+        "weight": 1445,
+        "discount": 0.1
+    },
+    {
+        "name": "Mouse",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "netPrice": 674,
+        "weight": 1863,
+        "discount": 0.34
+    },
+    {
+        "name": "Table",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 991,
+        "weight": 1373,
+        "discount": 0.47
+    },
+    {
+        "name": "Pants",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "netPrice": 970,
+        "weight": 1612,
+        "discount": 0.76
+    },
+    {
+        "name": "Gloves",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "netPrice": 934,
+        "weight": 301,
+        "discount": 0.3
+    },
+    {
+        "name": "Shoes",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 881,
+        "weight": 55,
+        "discount": 0.05
+    },
+    {
+        "name": "Fish",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "netPrice": 941,
+        "weight": 140,
+        "discount": 0.68
+    },
+    {
+        "name": "Computer",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "netPrice": 163,
+        "weight": 1065,
+        "discount": 0.38
+    },
+    {
+        "name": "Computer",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "netPrice": 636,
+        "weight": 268,
+        "discount": 0.22
+    },
+    {
+        "name": "Mouse",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "netPrice": 772,
+        "weight": 159,
+        "discount": 0.49
+    }
+]
